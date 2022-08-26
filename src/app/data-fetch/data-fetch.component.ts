@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {Observable} from 'rxjs';
-import {DataFetchService} from 'src/app/services/data-fetch.service';
+import {DataFetchService} from 'src/app/services/data-fetch.service.ts';
 
 @Component({
   selector: 'app-data-fetch',
